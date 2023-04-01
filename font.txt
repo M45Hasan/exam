@@ -1,0 +1,10 @@
+<button class="w-[162px] h-14 bg-pri rounded-[10px] font-int font-semibold text-xl leading-[26px] text-white"> Contact</button>
+
+class="font-int font-regular  text-lg leading-[26px]font-int font-regular  text-lg leading-[26px]"
+class="font-int font-bold text-lg leading-[18px] text-pri"
+h1 class= "font-int font-bold text-[75px] leading-[90px]
+p class=" font-int font-regular text-[16px] leading-[26px]"
+h3 class=" font-int font-medium  text-[25px] text-pri leading-[30px]"
+class="font-int font-bold text-[45px] leaading-[54px]"
+
+ class="font-int font-bold text-[30px] leading-[36px] text-center
